@@ -10,7 +10,7 @@ Ks 1.000000 1.000000 1.000000
 Tr 1.000000
 illum 2
 Ns 0.000000
-map_Kd Texture/01310-020-Boden.png
+map_Kd Texture/madika.png
 
 newmtl material_1
 Ka 0.200000 0.200000 0.200000
@@ -28,5 +28,5 @@ Ks 1.000000 1.000000 1.000000
 Tr 1.000000
 illum 2
 Ns 0.000000
-map_Kd Texture/01310-020-Deckel.png
+map_Kd Texture/madika.png
 
